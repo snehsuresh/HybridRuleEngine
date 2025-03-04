@@ -1,5 +1,12 @@
 Metric,Value
-C Duration (s),0.0855410099029541
-Python Duration (s),0.7848420143127441
-Number of Players,100000.0
-Number of Rules,100.0
+C Duration (s),14.538191080093384
+Python Duration (s),119.45593023300171
+Number of Players,10000000.0
+Number of Rules,150.0
+
+
+Metric,Value
+Fast C Duration (s),0.03321070031252
+Ordinary Python Duration (s),10.983200122002119
+Number of Players,1000000.0
+Number of Rules,150.0

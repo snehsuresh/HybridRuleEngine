@@ -2,7 +2,7 @@
 import csv
 import random
 
-NUM_PLAYERS = 10000000
+NUM_PLAYERS = 1000000
 
 with open("player_data.csv", "w", newline="") as csvfile:
     writer = csv.writer(csvfile)
