@@ -35,6 +35,17 @@ HybridRuleEngine/
 
 ## 📊 Experimental Results
 
+### 🚀 Speedup Summary Table
+
+| Comparison                  | Speedup |
+|------------------|-----------|
+| Python → Ordinary C Batch (100K Players) | **9.18×** |
+| Python → Ordinary C Batch (1M Players)   | **11.52×** |
+| Python → Ordinary C Batch (10M Players)  | **8.22×** |
+| Python → Fast C Batch (1M Players)       | **330.92×** |
+| Numba Python → Fast C Batch (1M Players) | **234.2×** |
+
+
 ### Ordinary C Batch vs Python
 
 | Metric                | Value                  |
