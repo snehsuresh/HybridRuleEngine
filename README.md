@@ -109,6 +109,4 @@ HybridRuleEngine/
     - Integer offer handling (no string manipulation)
     - Numba-accelerated Python option
 
----
 
-This README summarizes the **real performance evolution** from Pure Python ➡️ Ordinary Hybrid ➡️ Optimized Hybrid.
