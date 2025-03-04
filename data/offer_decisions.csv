@@ -64,7 +64,7 @@ player_id,offer
 63,default_offer
 64,default_offer
 65,default_offer
-66,special_reward
+66,first_purchase_bonus
 67,default_offer
 68,default_offer
 69,default_offer
@@ -79,7 +79,7 @@ player_id,offer
 78,default_offer
 79,default_offer
 80,default_offer
-81,first_purchase_bonus
+81,special_reward
 82,default_offer
 83,default_offer
 84,default_offer
@@ -558,7 +558,7 @@ player_id,offer
 557,default_offer
 558,special_reward
 559,default_offer
-560,first_purchase_bonus
+560,discount
 561,default_offer
 562,default_offer
 563,default_offer
@@ -773,7 +773,7 @@ player_id,offer
 772,default_offer
 773,default_offer
 774,default_offer
-775,regular_offer
+775,special_reward
 776,default_offer
 777,default_offer
 778,default_offer
@@ -813,7 +813,7 @@ player_id,offer
 812,default_offer
 813,default_offer
 814,default_offer
-815,discount
+815,first_purchase_bonus
 816,default_offer
 817,default_offer
 818,default_offer
@@ -873,7 +873,7 @@ player_id,offer
 872,default_offer
 873,default_offer
 874,default_offer
-875,special_reward
+875,discount
 876,default_offer
 877,default_offer
 878,default_offer
@@ -893,7 +893,7 @@ player_id,offer
 892,default_offer
 893,default_offer
 894,default_offer
-895,first_purchase_bonus
+895,regular_offer
 896,default_offer
 897,default_offer
 898,default_offer
@@ -953,7 +953,7 @@ player_id,offer
 952,special_reward
 953,default_offer
 954,default_offer
-955,first_purchase_bonus
+955,special_reward
 956,default_offer
 957,default_offer
 958,default_offer
@@ -973,7 +973,7 @@ player_id,offer
 972,default_offer
 973,default_offer
 974,default_offer
-975,first_purchase_bonus
+975,special_reward
 976,default_offer
 977,default_offer
 978,default_offer
@@ -1181,7 +1181,7 @@ player_id,offer
 1180,default_offer
 1181,default_offer
 1182,default_offer
-1183,first_purchase_bonus
+1183,special_reward
 1184,default_offer
 1185,default_offer
 1186,default_offer
@@ -1802,9 +1802,9 @@ player_id,offer
 1801,default_offer
 1802,default_offer
 1803,default_offer
-1804,first_purchase_bonus
+1804,discount
 1805,default_offer
-1806,first_purchase_bonus
+1806,regular_offer
 1807,special_reward
 1808,default_offer
 1809,default_offer
@@ -1877,7 +1877,7 @@ player_id,offer
 1876,default_offer
 1877,default_offer
 1878,default_offer
-1879,discount
+1879,regular_offer
 1880,default_offer
 1881,default_offer
 1882,default_offer
@@ -1923,7 +1923,7 @@ player_id,offer
 1922,default_offer
 1923,default_offer
 1924,default_offer
-1925,regular_offer
+1925,special_reward
 1926,default_offer
 1927,default_offer
 1928,default_offer
@@ -2013,7 +2013,7 @@ player_id,offer
 2012,default_offer
 2013,default_offer
 2014,default_offer
-2015,discount
+2015,regular_offer
 2016,default_offer
 2017,default_offer
 2018,default_offer
@@ -2083,7 +2083,7 @@ player_id,offer
 2082,default_offer
 2083,default_offer
 2084,default_offer
-2085,special_reward
+2085,first_purchase_bonus
 2086,default_offer
 2087,special_reward
 2088,default_offer
@@ -2223,7 +2223,7 @@ player_id,offer
 2222,default_offer
 2223,default_offer
 2224,default_offer
-2225,special_reward
+2225,first_purchase_bonus
 2226,default_offer
 2227,default_offer
 2228,default_offer
@@ -2760,7 +2760,7 @@ player_id,offer
 2759,discount
 2760,default_offer
 2761,default_offer
-2762,first_purchase_bonus
+2762,special_reward
 2763,special_reward
 2764,default_offer
 2765,discount
@@ -3368,7 +3368,7 @@ player_id,offer
 3367,default_offer
 3368,default_offer
 3369,default_offer
-3370,discount
+3370,first_purchase_bonus
 3371,default_offer
 3372,special_reward
 3373,default_offer
@@ -3423,7 +3423,7 @@ player_id,offer
 3422,default_offer
 3423,default_offer
 3424,default_offer
-3425,first_purchase_bonus
+3425,special_reward
 3426,first_purchase_bonus
 3427,default_offer
 3428,default_offer
@@ -4302,7 +4302,7 @@ player_id,offer
 4301,default_offer
 4302,default_offer
 4303,default_offer
-4304,regular_offer
+4304,first_purchase_bonus
 4305,first_purchase_bonus
 4306,default_offer
 4307,default_offer
@@ -4468,7 +4468,7 @@ player_id,offer
 4467,regular_offer
 4468,default_offer
 4469,default_offer
-4470,regular_offer
+4470,discount
 4471,discount
 4472,default_offer
 4473,default_offer
@@ -4663,7 +4663,7 @@ player_id,offer
 4662,default_offer
 4663,default_offer
 4664,default_offer
-4665,regular_offer
+4665,first_purchase_bonus
 4666,first_purchase_bonus
 4667,default_offer
 4668,default_offer
@@ -5193,7 +5193,7 @@ player_id,offer
 5192,default_offer
 5193,default_offer
 5194,default_offer
-5195,first_purchase_bonus
+5195,special_reward
 5196,special_reward
 5197,default_offer
 5198,first_purchase_bonus
@@ -5785,7 +5785,7 @@ player_id,offer
 5784,default_offer
 5785,default_offer
 5786,default_offer
-5787,discount
+5787,special_reward
 5788,default_offer
 5789,default_offer
 5790,default_offer
@@ -6172,7 +6172,7 @@ player_id,offer
 6171,first_purchase_bonus
 6172,default_offer
 6173,default_offer
-6174,discount
+6174,special_reward
 6175,default_offer
 6176,special_reward
 6177,default_offer
@@ -6227,7 +6227,7 @@ player_id,offer
 6226,default_offer
 6227,default_offer
 6228,default_offer
-6229,regular_offer
+6229,special_reward
 6230,special_reward
 6231,default_offer
 6232,default_offer
@@ -7036,7 +7036,7 @@ player_id,offer
 7035,default_offer
 7036,default_offer
 7037,special_reward
-7038,discount
+7038,first_purchase_bonus
 7039,default_offer
 7040,discount
 7041,default_offer
@@ -8097,7 +8097,7 @@ player_id,offer
 8096,default_offer
 8097,default_offer
 8098,default_offer
-8099,discount
+8099,special_reward
 8100,discount
 8101,default_offer
 8102,default_offer
@@ -9758,9 +9758,9 @@ player_id,offer
 9757,special_reward
 9758,default_offer
 9759,default_offer
-9760,first_purchase_bonus
+9760,discount
 9761,default_offer
-9762,discount
+9762,first_purchase_bonus
 9763,default_offer
 9764,default_offer
 9765,default_offer
@@ -9792,7 +9792,7 @@ player_id,offer
 9791,default_offer
 9792,discount
 9793,default_offer
-9794,discount
+9794,first_purchase_bonus
 9795,default_offer
 9796,default_offer
 9797,regular_offer
@@ -10018,7 +10018,7 @@ player_id,offer
 10017,default_offer
 10018,default_offer
 10019,default_offer
-10020,first_purchase_bonus
+10020,discount
 10021,default_offer
 10022,default_offer
 10023,default_offer
@@ -10026,7 +10026,7 @@ player_id,offer
 10025,default_offer
 10026,default_offer
 10027,default_offer
-10028,special_reward
+10028,first_purchase_bonus
 10029,default_offer
 10030,default_offer
 10031,default_offer
@@ -10071,7 +10071,7 @@ player_id,offer
 10070,default_offer
 10071,default_offer
 10072,default_offer
-10073,regular_offer
+10073,special_reward
 10074,default_offer
 10075,default_offer
 10076,special_reward
@@ -10088,7 +10088,7 @@ player_id,offer
 10087,discount
 10088,default_offer
 10089,default_offer
-10090,regular_offer
+10090,discount
 10091,default_offer
 10092,default_offer
 10093,default_offer
@@ -10143,7 +10143,7 @@ player_id,offer
 10142,default_offer
 10143,default_offer
 10144,default_offer
-10145,regular_offer
+10145,first_purchase_bonus
 10146,default_offer
 10147,default_offer
 10148,default_offer
@@ -10214,7 +10214,7 @@ player_id,offer
 10213,default_offer
 10214,default_offer
 10215,default_offer
-10216,special_reward
+10216,discount
 10217,default_offer
 10218,default_offer
 10219,default_offer
@@ -10334,7 +10334,7 @@ player_id,offer
 10333,default_offer
 10334,default_offer
 10335,default_offer
-10336,regular_offer
+10336,first_purchase_bonus
 10337,default_offer
 10338,default_offer
 10339,default_offer
@@ -10401,7 +10401,7 @@ player_id,offer
 10400,default_offer
 10401,default_offer
 10402,discount
-10403,regular_offer
+10403,discount
 10404,default_offer
 10405,default_offer
 10406,default_offer
@@ -11284,7 +11284,7 @@ player_id,offer
 11283,default_offer
 11284,default_offer
 11285,default_offer
-11286,first_purchase_bonus
+11286,discount
 11287,default_offer
 11288,default_offer
 11289,first_purchase_bonus
@@ -11335,7 +11335,7 @@ player_id,offer
 11334,default_offer
 11335,default_offer
 11336,default_offer
-11337,discount
+11337,first_purchase_bonus
 11338,discount
 11339,default_offer
 11340,default_offer
@@ -11676,7 +11676,7 @@ player_id,offer
 11675,default_offer
 11676,default_offer
 11677,default_offer
-11678,regular_offer
+11678,first_purchase_bonus
 11679,first_purchase_bonus
 11680,default_offer
 11681,default_offer
@@ -11869,7 +11869,7 @@ player_id,offer
 11868,special_reward
 11869,default_offer
 11870,default_offer
-11871,discount
+11871,first_purchase_bonus
 11872,discount
 11873,default_offer
 11874,default_offer
@@ -12895,7 +12895,7 @@ player_id,offer
 12894,default_offer
 12895,regular_offer
 12896,default_offer
-12897,discount
+12897,first_purchase_bonus
 12898,default_offer
 12899,default_offer
 12900,default_offer
@@ -12942,7 +12942,7 @@ player_id,offer
 12941,default_offer
 12942,default_offer
 12943,default_offer
-12944,first_purchase_bonus
+12944,discount
 12945,default_offer
 12946,default_offer
 12947,default_offer
@@ -13056,7 +13056,7 @@ player_id,offer
 13055,default_offer
 13056,default_offer
 13057,default_offer
-13058,first_purchase_bonus
+13058,special_reward
 13059,default_offer
 13060,default_offer
 13061,default_offer
@@ -13143,7 +13143,7 @@ player_id,offer
 13142,default_offer
 13143,special_reward
 13144,default_offer
-13145,first_purchase_bonus
+13145,regular_offer
 13146,default_offer
 13147,default_offer
 13148,default_offer
@@ -13486,9 +13486,9 @@ player_id,offer
 13485,default_offer
 13486,default_offer
 13487,default_offer
-13488,discount
+13488,regular_offer
 13489,default_offer
-13490,regular_offer
+13490,discount chase_bonus
 13491,default_offer
 13492,default_offer
 13493,default_offer
@@ -13559,7 +13559,7 @@ player_id,offer
 13558,default_offer
 13559,default_offer
 13560,default_offer
-13561,special_reward
+13561,special_rewar
 13562,default_offer
 13563,default_offer
 13564,default_offer
@@ -13609,7 +13609,7 @@ player_id,offer
 13608,default_offer
 13609,default_offer
 13610,default_offer
-13611,discount
+13611,regular_offer
 13612,default_offer
 13613,default_offer
 13614,default_offer
@@ -13638,7 +13638,7 @@ player_id,offer
 13637,default_offer
 13638,first_purchase_bonus
 13639,default_offer
-13640,regular_offer
+13640,special_reward
 13641,default_offer
 13642,default_offer
 13643,default_offer
@@ -13650,7 +13650,7 @@ player_id,offer
 13649,default_offer
 13650,default_offer
 13651,default_offer
-13652,special_reward
+13652,discount
 13653,default_offer
 13654,default_offer
 13655,default_offer
@@ -13759,7 +13759,7 @@ player_id,offer
 13758,default_offer
 13759,default_offer
 13760,default_offer
-13761,special_reward
+13761,discount
 13762,default_offer
 13763,default_offer
 13764,default_offer
@@ -13828,7 +13828,7 @@ player_id,offer
 13827,default_offer
 13828,default_offer
 13829,default_offer
-13830,regular_offer
+13830,special_reward
 13831,default_offer
 13832,default_offer
 13833,default_offer
@@ -13879,7 +13879,7 @@ player_id,offer
 13878,default_offer
 13879,default_offer
 13880,default_offer
-13881,discount
+13881,special_reward
 13882,default_offer
 13883,default_offer
 13884,special_reward
@@ -13980,7 +13980,7 @@ player_id,offer
 13979,default_offer
 13980,default_offer
 13981,default_offer
-13982,first_purchase_bonus
+13982,regular_offer
 13983,default_offer
 13984,default_offer
 13985,discount
@@ -14038,7 +14038,7 @@ player_id,offer
 14037,default_offer
 14038,default_offer
 14039,default_offer
-14040,discount
+14040,discount eward
 14041,default_offer
 14042,default_offer
 14043,default_offer
@@ -14054,7 +14054,7 @@ player_id,offer
 14053,default_offer
 14054,default_offer
 14055,default_offer
-14056,discount
+14056,special_reward
 14057,default_offer
 14058,default_offer
 14059,default_offer
@@ -14157,7 +14157,7 @@ player_id,offer
 14156,default_offer
 14157,default_offer
 14158,default_offer
-14159,regular_offer
+14159,first_purchase_bonus
 14160,default_offer
 14161,default_offer
 14162,default_offer
@@ -14174,12 +14174,12 @@ player_id,offer
 14173,default_offer
 14174,default_offer
 14175,default_offer
-14176,first_purchase_bonus
+14176,special_reward
 14177,default_offer
 14178,default_offer
 14179,default_offer
 14180,default_offer
-14181,special_reward
+14181,discount
 14182,default_offer
 14183,default_offer
 14184,default_offer
@@ -14351,7 +14351,7 @@ player_id,offer
 14350,default_offer
 14351,discount
 14352,default_offer
-14353,discount
+14353,regular_offer
 14354,default_offer
 14355,default_offer
 14356,default_offer
@@ -14391,7 +14391,7 @@ player_id,offer
 14390,default_offer
 14391,default_offer
 14392,default_offer
-14393,regular_offer
+14393,first_purchase_bonus
 14394,regular_offer
 14395,default_offer
 14396,default_offer
@@ -14416,7 +14416,7 @@ player_id,offer
 14415,regular_offer
 14416,default_offer
 14417,default_offer
-14418,regular_offer
+14418,first_purchase_bonus
 14419,default_offer
 14420,default_offer
 14421,default_offer
@@ -14518,7 +14518,7 @@ player_id,offer
 14517,default_offer
 14518,default_offer
 14519,default_offer
-14520,first_purchase_bonus
+14520,special_reward
 14521,first_purchase_bonus
 14522,default_offer
 14523,default_offer
@@ -14568,7 +14568,7 @@ player_id,offer
 14567,default_offer
 14568,default_offer
 14569,default_offer
-14570,first_purchase_bonus
+14570,discount
 14571,default_offer
 14572,default_offer
 14573,default_offer
@@ -14718,7 +14718,7 @@ player_id,offer
 14717,default_offer
 14718,default_offer
 14719,default_offer
-14720,discount
+14720,first_purchase_bonus
 14721,default_offer
 14722,default_offer
 14723,default_offer
@@ -14762,7 +14762,7 @@ player_id,offer
 14761,default_offer
 14762,default_offer
 14763,discount
-14764,first_purchase_bonus
+14764,special_reward
 14765,default_offer
 14766,default_offer
 14767,default_offer
@@ -14773,7 +14773,7 @@ player_id,offer
 14772,default_offer
 14773,discount
 14774,default_offer
-14775,special_reward
+14775,first_purchase_bonus
 14776,default_offer
 14777,default_offer
 14778,default_offer
@@ -14906,7 +14906,7 @@ player_id,offer
 14905,default_offer
 14906,default_offer
 14907,default_offer
-14908,first_purchase_bonus
+14908,discount
 14909,default_offer
 14910,default_offer
 14911,default_offer
@@ -15007,7 +15007,7 @@ player_id,offer
 15006,default_offer
 15007,default_offer
 15008,default_offer
-15009,special_reward
+15009,discount
 15010,default_offer
 15011,default_offer
 15012,default_offer
@@ -15017,7 +15017,7 @@ player_id,offer
 15016,default_offer
 15017,default_offer
 15018,default_offer
-15019,regular_offer
+15019,special_reward
 15020,default_offer
 15021,default_offer
 15022,special_reward
@@ -15178,7 +15178,7 @@ player_id,offer
 15177,default_offer
 15178,default_offer
 15179,default_offer
-15180,first_purchase_bonus
+15180,discount
 15181,default_offer
 15182,default_offer
 15183,default_offer
@@ -15190,7 +15190,7 @@ player_id,offer
 15189,default_offer
 15190,default_offer
 15191,default_offer
-15192,special_reward
+15192,first_purchase_bonus
 15193,default_offer
 15194,default_offer
 15195,default_offer
@@ -15302,7 +15302,7 @@ player_id,offer
 15301,default_offer
 15302,default_offer
 15303,default_offer
-15304,special_reward
+15304,discount
 15305,default_offer
 15306,default_offer
 15307,default_offer
@@ -15337,7 +15337,7 @@ player_id,offer
 15336,default_offer
 15337,discount
 15338,default_offer
-15339,first_purchase_bonus
+15339,discount
 15340,default_offer
 15341,default_offer
 15342,default_offer
@@ -15572,7 +15572,7 @@ player_id,offer
 15571,default_offer
 15572,default_offer
 15573,default_offer
-15574,first_purchase_bonus
+15574,special_reward
 15575,default_offer
 15576,default_offer
 15577,default_offer
@@ -15677,7 +15677,7 @@ player_id,offer
 15676,special_reward
 15677,default_offer
 15678,default_offer
-15679,first_purchase_bonus
+15679,discount
 15680,default_offer
 15681,default_offer
 15682,default_offer
@@ -15710,7 +15710,7 @@ player_id,offer
 15709,default_offer
 15710,default_offer
 15711,default_offer
-15712,first_purchase_bonus
+15712,discount
 15713,default_offer
 15714,default_offer
 15715,default_offer
@@ -16988,7 +16988,7 @@ player_id,offer
 16987,default_offer
 16988,default_offer
 16989,default_offer
-16990,regular_offer
+16990,special_reward
 16991,discount
 16992,special_reward
 16993,default_offer
@@ -17874,7 +17874,7 @@ player_id,offer
 17873,default_offer
 17874,default_offer
 17875,default_offer
-17876,regular_offer
+17876,special_reward
 17877,default_offer
 17878,regular_offer
 17879,default_offer
@@ -20001,7 +20001,7 @@ player_id,offer
 20000,default_offer
 20001,first_purchase_bonus
 20002,default_offer
-20003,discount
+20003,first_purchase_bonus
 20004,discount
 20005,default_offer
 20006,default_offer
@@ -20164,7 +20164,7 @@ player_id,offer
 20163,default_offer
 20164,default_offer
 20165,default_offer
-20166,discount
+20166,first_purchase_bonus
 20167,default_offer
 20168,default_offer
 20169,first_purchase_bonus
@@ -20551,7 +20551,7 @@ player_id,offer
 20550,default_offer
 20551,default_offer
 20552,default_offer
-20553,discount
+20553,first_purchase_bonus
 20554,discount
 20555,default_offer
 20556,default_offer
@@ -21298,7 +21298,7 @@ player_id,offer
 21297,default_offer
 21298,default_offer
 21299,default_offer
-21300,special_reward
+21300,regular_offer
 21301,default_offer
 21302,default_offer
 21303,default_offer
@@ -21912,7 +21912,7 @@ player_id,offer
 21911,default_offer
 21912,default_offer
 21913,default_offer
-21914,special_reward
+21914,first_purchase_bonus
 21915,first_purchase_bonus
 21916,default_offer
 21917,default_offer
@@ -22074,7 +22074,7 @@ player_id,offer
 22073,default_offer
 22074,default_offer
 22075,default_offer
-22076,regular_offer _bonus
+22076,first_purchase_bonus
 22077,default_offer
 22078,default_offer
 22079,default_offer
@@ -22135,10 +22135,10 @@ player_id,offer
 22134,default_offer
 22135,default_offer
 22136,discount
-22137,regular_offer
+22137,first_purchase_bonus
 22138,default_offer
 22139,default_offer
-22140,first_purchase_bonus
+22140,regular_offer
 22141,default_offer
 22142,default_offer
 22143,default_offer
@@ -22151,7 +22151,7 @@ player_id,offer
 22150,default_offer
 22151,first_purchase_bonus
 22152,default_offer
-22153,first_purchase_bonus
+22153,regular_offer
 22154,default_offer
 22155,default_offer
 22156,default_offer
@@ -22325,7 +22325,7 @@ player_id,offer
 22324,default_offer
 22325,default_offer
 22326,default_offer
-22327,regular_offer
+22327,first_purchase_bonus
 22328,first_purchase_bonus
 22329,default_offer
 22330,default_offer
@@ -22342,7 +22342,7 @@ player_id,offer
 22341,default_offer
 22342,default_offer
 22343,default_offer
-22344,discount
+22344,special_reward
 22345,special_reward
 22346,default_offer
 22347,default_offer
@@ -22400,7 +22400,7 @@ player_id,offer
 22399,default_offer
 22400,default_offer
 22401,default_offer
-22402,discount
+22402,regular_offer
 22403,default_offer
 22404,default_offer
 22405,default_offer
@@ -22476,7 +22476,7 @@ player_id,offer
 22475,default_offer
 22476,default_offer
 22477,default_offer
-22478,discount
+22478,regular_offer
 22479,default_offer
 22480,default_offer
 22481,default_offer
@@ -22590,7 +22590,7 @@ player_id,offer
 22589,default_offer
 22590,default_offer
 22591,default_offer
-22592,special_reward
+22592,first_purchase_bonus
 22593,default_offer
 22594,default_offer
 22595,default_offer
@@ -22614,9 +22614,9 @@ player_id,offer
 22613,default_offer
 22614,default_offer
 22615,default_offer
-22616,first_purchase_bonus
+22616,special_reward
 22617,default_offer
-22618,special_reward
+22618,discount
 22619,default_offer
 22620,default_offer
 22621,default_offer
@@ -22642,7 +22642,7 @@ player_id,offer
 22641,default_offer
 22642,default_offer
 22643,default_offer
-22644,discount
+22644,first_purchase_bonus
 22645,default_offer
 22646,default_offer
 22647,default_offer
@@ -22707,7 +22707,7 @@ player_id,offer
 22706,default_offer
 22707,default_offer
 22708,default_offer
-22709,discount
+22709,first_purchase_bonus
 22710,default_offer
 22711,default_offer
 22712,regular_offer
@@ -22717,7 +22717,7 @@ player_id,offer
 22716,discount
 22717,default_offer
 22718,default_offer
-22719,discount
+22719,special_reward
 22720,default_offer
 22721,default_offer
 22722,default_offer
@@ -22733,12 +22733,12 @@ player_id,offer
 22732,default_offer
 22733,discount
 22734,default_offer
-22735,special_reward
+22735,discount
 22736,default_offer
 22737,default_offer
 22738,default_offer
 22739,discount
-22740,discount
+22740,first_purchase_bonus
 22741,default_offer
 22742,default_offer
 22743,default_offer
@@ -22815,7 +22815,7 @@ player_id,offer
 22814,default_offer
 22815,default_offer
 22816,default_offer
-22817,special_reward
+22817,first_purchase_bonus
 22818,first_purchase_bonus
 22819,default_offer
 22820,default_offer
@@ -22982,7 +22982,7 @@ player_id,offer
 22981,default_offer
 22982,default_offer
 22983,default_offer
-22984,discount
+22984,first_purchase_bonus
 22985,default_offer
 22986,default_offer
 22987,default_offer
@@ -23067,7 +23067,7 @@ player_id,offer
 23066,default_offer
 23067,default_offer
 23068,default_offer
-23069,special_reward
+23069,discount
 23070,default_offer
 23071,default_offer
 23072,default_offer
@@ -23094,7 +23094,7 @@ player_id,offer
 23093,default_offer
 23094,default_offer
 23095,default_offer
-23096,special_reward
+23096,discount
 23097,default_offer
 23098,default_offer
 23099,default_offer
@@ -23268,7 +23268,7 @@ player_id,offer
 23267,default_offer
 23268,default_offer
 23269,default_offer
-23270,special_reward
+23270,discount
 23271,default_offer
 23272,default_offer
 23273,default_offer
@@ -23768,7 +23768,7 @@ player_id,offer
 23767,default_offer
 23768,default_offer
 23769,default_offer
-23770,regular_offer
+23770,first_purchase_bonus
 23771,regular_offer
 23772,default_offer
 23773,default_offer
@@ -23804,7 +23804,7 @@ player_id,offer
 23803,first_purchase_bonus
 23804,default_offer
 23805,default_offer
-23806,regular_offer
+23806,first_purchase_bonus
 23807,regular_offer
 23808,default_offer
 23809,default_offer
@@ -24695,7 +24695,7 @@ player_id,offer
 24694,default_offer
 24695,default_offer
 24696,default_offer
-24697,regular_offer
+24697,special_reward
 24698,default_offer
 24699,default_offer
 24700,default_offer
@@ -28598,7 +28598,7 @@ player_id,offer
 28597,default_offer
 28598,default_offer
 28599,default_offer
-28600,special_reward
+28600,discount
 28601,default_offer
 28602,default_offer
 28603,default_offer
@@ -28671,7 +28671,7 @@ player_id,offer
 28670,default_offer
 28671,default_offer
 28672,default_offer
-28673,regular_offer
+28673,discount
 28674,regular_offer
 28675,default_offer
 28676,default_offer
@@ -29339,12 +29339,12 @@ player_id,offer
 29338,default_offer
 29339,default_offer
 29340,first_purchase_bonus
-29341,first_purchase_bonus
+29341,discount
 29342,discount
 29343,default_offer
 29344,default_offer
 29345,default_offer
-29346,discount
+29346,regular_offer
 29347,discount
 29348,default_offer
 29349,default_offer
@@ -29590,7 +29590,7 @@ player_id,offer
 29589,default_offer
 29590,default_offer
 29591,default_offer
-29592,first_purchase_bonus
+29592,discount
 29593,discount
 29594,default_offer
 29595,default_offer
@@ -29798,7 +29798,7 @@ player_id,offer
 29797,default_offer
 29798,default_offer
 29799,default_offer
-29800,regular_offer
+29800,discount
 29801,discount
 29802,default_offer
 29803,default_offer
@@ -30148,7 +30148,7 @@ player_id,offer
 30147,default_offer
 30148,default_offer
 30149,default_offer
-30150,first_purchase_bonus
+30150,regular_offer
 30151,first_purchase_bonus
 30152,first_purchase_bonus
 30153,default_offer
@@ -30673,7 +30673,7 @@ player_id,offer
 30672,default_offer
 30673,default_offer
 30674,default_offer
-30675,regular_offer
+30675,special_reward
 30676,default_offer
 30677,default_offer
 30678,default_offer
@@ -30702,7 +30702,7 @@ player_id,offer
 30701,default_offer
 30702,default_offer
 30703,default_offer
-30704,regular_offer
+30704,first_purchase_bonus
 30705,default_offer
 30706,default_offer
 30707,default_offer
@@ -30834,7 +30834,7 @@ player_id,offer
 30833,default_offer
 30834,first_purchase_bonus
 30835,default_offer
-30836,special_reward
+30836,regular_offer
 30837,default_offer
 30838,default_offer
 30839,default_offer
@@ -30866,8 +30866,8 @@ player_id,offer
 30865,default_offer
 30866,default_offer
 30867,default_offer
-30868,regular_offer
-30869,regular_offer
+30868,first_purchase_bonus
+30869,discount
 30870,default_offer
 30871,default_offer
 30872,default_offer
@@ -30885,7 +30885,7 @@ player_id,offer
 30884,default_offer
 30885,default_offer
 30886,default_offer
-30887,discount
+30887,regular_offer
 30888,default_offer
 30889,default_offer
 30890,default_offer
@@ -31030,7 +31030,7 @@ player_id,offer
 31029,default_offer
 31030,default_offer
 31031,default_offer
-31032,regular_offer
+31032,first_purchase_bonus
 31033,default_offer
 31034,default_offer
 31035,default_offer
@@ -31858,7 +31858,7 @@ player_id,offer
 31857,default_offer
 31858,default_offer
 31859,default_offer
-31860,special_reward
+31860,first_purchase_bonus
 31861,default_offer
 31862,default_offer
 31863,default_offer
@@ -31871,7 +31871,7 @@ player_id,offer
 31870,default_offer
 31871,default_offer
 31872,default_offer
-31873,first_purchase_bonus
+31873,discount
 31874,default_offer
 31875,default_offer
 31876,default_offer
@@ -31977,7 +31977,7 @@ player_id,offer
 31976,default_offer
 31977,default_offer
 31978,default_offer
-31979,first_purchase_bonus
+31979,regular_offer _bonus
 31980,default_offer
 31981,default_offer
 31982,default_offer
@@ -32023,7 +32023,7 @@ player_id,offer
 32022,default_offer
 32023,default_offer
 32024,default_offer
-32025,discount
+32025,first_purchase_bonus
 32026,default_offer
 32027,default_offer
 32028,default_offer
@@ -32135,9 +32135,9 @@ player_id,offer
 32134,default_offer
 32135,default_offer
 32136,default_offer
-32137,first_purchase_bonus
+32137,regular_offer
 32138,default_offer
-32139,regular_offer
+32139,first_purchase_bonus
 32140,default_offer
 32141,default_offer
 32142,default_offer
@@ -32234,8 +32234,8 @@ player_id,offer
 32233,default_offer
 32234,default_offer
 32235,first_purchase_bonus
-32236,first_purchase_bonus
-32237,regular_offer
+32236,discount
+32237,discount
 32238,default_offer
 32239,default_offer
 32240,first_purchase_bonus
@@ -32348,7 +32348,7 @@ player_id,offer
 32347,default_offer
 32348,default_offer
 32349,default_offer
-32350,special_reward
+32350,first_purchase_bonus
 32351,default_offer
 32352,default_offer
 32353,default_offer
@@ -32460,7 +32460,7 @@ player_id,offer
 32459,default_offer
 32460,default_offer
 32461,default_offer
-32462,first_purchase_bonus
+32462,regular_offer
 32463,default_offer
 32464,default_offer
 32465,default_offer
@@ -32617,7 +32617,7 @@ player_id,offer
 32616,default_offer
 32617,default_offer
 32618,default_offer
-32619,discount
+32619,first_purchase_bonus
 32620,discount
 32621,default_offer
 32622,default_offer
@@ -32625,7 +32625,7 @@ player_id,offer
 32624,default_offer
 32625,default_offer
 32626,default_offer
-32627,special_reward
+32627,discount
 32628,default_offer
 32629,default_offer
 32630,default_offer
@@ -32653,7 +32653,7 @@ player_id,offer
 32652,default_offer
 32653,default_offer
 32654,default_offer
-32655,regular_offer
+32655,discount
 32656,default_offer
 32657,default_offer
 32658,default_offer
@@ -32703,7 +32703,7 @@ player_id,offer
 32702,default_offer
 32703,default_offer
 32704,default_offer
-32705,regular_offer
+32705,regular_offer _bonus
 32706,regular_offer
 32707,default_offer
 32708,default_offer
@@ -32776,7 +32776,7 @@ player_id,offer
 32775,default_offer
 32776,default_offer
 32777,first_purchase_bonus
-32778,regular_offer
+32778,special_reward
 32779,default_offer
 32780,default_offer
 32781,default_offer
@@ -32854,7 +32854,7 @@ player_id,offer
 32853,default_offer
 32854,regular_offer
 32855,default_offer
-32856,discount
+32856,first_purchase_bonus
 32857,default_offer
 32858,default_offer
 32859,default_offer
@@ -33186,7 +33186,7 @@ player_id,offer
 33185,default_offer
 33186,regular_offer
 33187,first_purchase_bonus
-33188,first_purchase_bonus
+33188,special_reward
 33189,default_offer
 33190,default_offer
 33191,default_offer
@@ -33459,7 +33459,7 @@ player_id,offer
 33458,default_offer
 33459,default_offer
 33460,default_offer
-33461,discount
+33461,special_reward
 33462,discount
 33463,default_offer
 33464,default_offer
@@ -34063,7 +34063,7 @@ player_id,offer
 34062,default_offer
 34063,default_offer
 34064,default_offer
-34065,discount
+34065,regular_offer
 34066,regular_offer
 34067,default_offer
 34068,default_offer
@@ -34263,7 +34263,7 @@ player_id,offer
 34262,default_offer
 34263,default_offer
 34264,default_offer
-34265,regular_offer
+34265,special_reward
 34266,regular_offer
 34267,default_offer
 34268,default_offer
@@ -34381,7 +34381,7 @@ player_id,offer
 34380,default_offer
 34381,default_offer
 34382,default_offer
-34383,regular_offer
+34383,discount
 34384,default_offer
 34385,regular_offer
 34386,default_offer
@@ -34509,7 +34509,7 @@ player_id,offer
 34508,default_offer
 34509,default_offer
 34510,default_offer
-34511,regular_offer
+34511,first_purchase_bonus
 34512,first_purchase_bonus
 34513,default_offer
 34514,default_offer
@@ -35050,7 +35050,7 @@ player_id,offer
 35049,first_purchase_bonus
 35050,default_offer
 35051,default_offer
-35052,first_purchase_bonus
+35052,special_reward
 35053,special_reward
 35054,default_offer
 35055,default_offer
@@ -35485,7 +35485,7 @@ player_id,offer
 35484,default_offer
 35485,default_offer
 35486,default_offer
-35487,special_reward
+35487,first_purchase_bonus
 35488,special_reward
 35489,default_offer
 35490,first_purchase_bonus
@@ -36152,7 +36152,7 @@ player_id,offer
 36151,default_offer
 36152,default_offer
 36153,default_offer
-36154,special_reward
+36154,regular_offer
 36155,default_offer
 36156,special_reward
 36157,default_offer
@@ -36261,7 +36261,7 @@ player_id,offer
 36260,default_offer
 36261,default_offer
 36262,default_offer
-36263,first_purchase_bonus
+36263,discount
 36264,first_purchase_bonus
 36265,default_offer
 36266,default_offer
@@ -36922,7 +36922,7 @@ player_id,offer
 36921,default_offer
 36922,default_offer
 36923,default_offer
-36924,first_purchase_bonus
+36924,special_reward
 36925,special_reward
 36926,default_offer
 36927,default_offer
@@ -37130,7 +37130,7 @@ player_id,offer
 37129,default_offer
 37130,default_offer
 37131,default_offer
-37132,discount
+37132,first_purchase_bonus
 37133,regular_offer
 37134,default_offer
 37135,first_purchase_bonus
@@ -37397,7 +37397,7 @@ player_id,offer
 37396,default_offer
 37397,default_offer
 37398,default_offer
-37399,special_reward
+37399,discount
 37400,default_offer
 37401,default_offer
 37402,discount
@@ -38419,7 +38419,7 @@ player_id,offer
 38418,default_offer
 38419,default_offer
 38420,default_offer
-38421,regular_offer
+38421,first_purchase_bonus
 38422,first_purchase_bonus
 38423,default_offer
 38424,default_offer
@@ -38687,7 +38687,7 @@ player_id,offer
 38686,default_offer
 38687,default_offer
 38688,default_offer
-38689,first_purchase_bonus
+38689,discount
 38690,discount
 38691,default_offer
 38692,default_offer
@@ -38972,7 +38972,7 @@ player_id,offer
 38971,default_offer
 38972,default_offer
 38973,default_offer
-38974,first_purchase_bonus
+38974,discount
 38975,first_purchase_bonus
 38976,default_offer
 38977,default_offer
@@ -39364,7 +39364,7 @@ player_id,offer
 39363,default_offer
 39364,default_offer
 39365,special_reward
-39366,special_reward
+39366,first_purchase_bonus
 39367,special_reward
 39368,default_offer
 39369,default_offer
@@ -42408,7 +42408,7 @@ player_id,offer
 42407,default_offer
 42408,default_offer
 42409,default_offer
-42410,discount
+42410,special_reward
 42411,special_reward
 42412,default_offer
 42413,default_offer
@@ -42654,7 +42654,7 @@ player_id,offer
 42653,default_offer
 42654,default_offer
 42655,default_offer
-42656,discount
+42656,regular_offer
 42657,discount
 42658,default_offer
 42659,default_offer
@@ -43220,7 +43220,7 @@ player_id,offer
 43219,default_offer
 43220,default_offer
 43221,default_offer
-43222,first_purchase_bonus
+43222,discount
 43223,default_offer
 43224,default_offer
 43225,default_offer
@@ -43235,7 +43235,7 @@ player_id,offer
 43234,default_offer
 43235,default_offer
 43236,default_offer
-43237,regular_offer
+43237,first_purchase_bonus
 43238,default_offer
 43239,default_offer
 43240,default_offer
@@ -43303,7 +43303,7 @@ player_id,offer
 43302,default_offer
 43303,default_offer
 43304,default_offer
-43305,discount
+43305,regular_offer
 43306,default_offer
 43307,default_offer
 43308,default_offer
@@ -43342,7 +43342,7 @@ player_id,offer
 43341,default_offer
 43342,default_offer
 43343,default_offer
-43344,special_reward
+43344,discount
 43345,default_offer
 43346,default_offer
 43347,default_offer
@@ -43395,7 +43395,7 @@ player_id,offer
 43394,default_offer
 43395,default_offer
 43396,regular_offer
-43397,regular_offer
+43397,special_reward
 43398,default_offer
 43399,default_offer
 43400,default_offer
@@ -43433,25 +43433,25 @@ player_id,offer
 43432,default_offer
 43433,default_offer
 43434,special_reward
-43435,regular_offer
+43435,first_purchase_bonus
 43436,default_offer
 43437,default_offer
 43438,default_offer
 43439,default_offer
 43440,default_offer
-43441,special_reward bonus
+43441,regular_offer
 43442,default_offer
 43443,default_offer
 43444,default_offer
 43445,default_offer
-43446,first_purchase_bonus
+43446,discount
 43447,default_offer
 43448,default_offer
 43449,default_offer
 43450,first_purchase_bonus
 43451,default_offer
 43452,default_offer
-43453,regular_offer
+43453,special_reward
 43454,default_offer
 43455,default_offer
 43456,default_offer
@@ -43474,7 +43474,7 @@ player_id,offer
 43473,default_offer
 43474,default_offer
 43475,default_offer
-43476,first_purchase_bonus
+43476,discount
 43477,default_offer
 43478,default_offer
 43479,default_offer
@@ -43510,7 +43510,7 @@ player_id,offer
 43509,default_offer
 43510,default_offer
 43511,default_offer
-43512,discount
+43512,regular_offer
 43513,default_offer
 43514,default_offer
 43515,default_offer
@@ -43659,7 +43659,7 @@ player_id,offer
 43658,default_offer
 43659,default_offer
 43660,default_offer
-43661,discount
+43661,first_purchase_bonus
 43662,default_offer
 43663,default_offer
 43664,default_offer
@@ -43674,7 +43674,7 @@ player_id,offer
 43673,default_offer
 43674,default_offer
 43675,default_offer
-43676,special_reward
+43676,discount
 43677,default_offer
 43678,default_offer
 43679,special_reward
@@ -43684,7 +43684,7 @@ player_id,offer
 43683,default_offer
 43684,default_offer
 43685,default_offer
-43686,first_purchase_bonus
+43686,discount
 43687,default_offer
 43688,default_offer
 43689,default_offer
@@ -43792,7 +43792,7 @@ player_id,offer
 43791,default_offer
 43792,special_reward
 43793,default_offer
-43794,special_reward
+43794,discount
 43795,default_offer
 43796,default_offer
 43797,default_offer
@@ -43901,7 +43901,7 @@ player_id,offer
 43900,default_offer
 43901,default_offer
 43902,default_offer
-43903,first_purchase_bonus
+43903,discount
 43904,discount
 43905,default_offer
 43906,default_offer
@@ -43978,7 +43978,7 @@ player_id,offer
 43977,default_offer
 43978,default_offer
 43979,default_offer
-43980,special_reward
+43980,discount
 43981,default_offer
 43982,default_offer
 43983,default_offer
@@ -44037,11 +44037,11 @@ player_id,offer
 44036,default_offer
 44037,default_offer
 44038,default_offer
-44039,discount
+44039,first_purchase_bonus
 44040,first_purchase_bonus
 44041,special_reward
 44042,default_offer
-44043,special_reward
+44043,discount
 44044,discount
 44045,default_offer
 44046,default_offer
@@ -44052,7 +44052,7 @@ player_id,offer
 44051,default_offer
 44052,default_offer
 44053,default_offer
-44054,special_reward
+44054,first_purchase_bonus
 44055,default_offer
 44056,default_offer
 44057,default_offer
@@ -44806,7 +44806,7 @@ player_id,offer
 44805,default_offer
 44806,default_offer
 44807,default_offer
-44808,first_purchase_bonus
+44808,special_reward
 44809,first_purchase_bonus
 44810,default_offer
 44811,default_offer
@@ -46603,7 +46603,7 @@ player_id,offer
 46602,default_offer
 46603,default_offer
 46604,default_offer
-46605,discount
+46605,regular_offer
 46606,regular_offer
 46607,default_offer
 46608,default_offer
@@ -47342,7 +47342,7 @@ player_id,offer
 47341,default_offer
 47342,default_offer
 47343,default_offer
-47344,discount
+47344,regular_offer
 47345,discount
 47346,default_offer
 47347,default_offer
@@ -48291,7 +48291,7 @@ player_id,offer
 48290,regular_offer
 48291,default_offer
 48292,default_offer
-48293,special_reward
+48293,first_purchase_bonus
 48294,default_offer
 48295,special_reward
 48296,default_offer
@@ -48457,7 +48457,7 @@ player_id,offer
 48456,default_offer
 48457,default_offer
 48458,default_offer
-48459,first_purchase_bonus
+48459,regular_offer
 48460,default_offer
 48461,default_offer
 48462,default_offer
@@ -49177,7 +49177,7 @@ player_id,offer
 49176,default_offer
 49177,default_offer
 49178,first_purchase_bonus
-49179,special_reward
+49179,regular_offer
 49180,special_reward
 49181,default_offer
 49182,default_offer
@@ -51865,8 +51865,8 @@ player_id,offer
 51864,default_offer
 51865,default_offer
 51866,default_offer
-51867,special_reward
-51868,first_purchase_bonus
+51867,regular_offer
+51868,special_reward
 51869,default_offer
 51870,special_reward
 51871,default_offer
@@ -52326,7 +52326,7 @@ player_id,offer
 52325,default_offer
 52326,default_offer
 52327,default_offer
-52328,first_purchase_bonus
+52328,discount
 52329,default_offer
 52330,default_offer
 52331,regular_offer
@@ -52658,7 +52658,7 @@ player_id,offer
 52657,default_offer
 52658,default_offer
 52659,default_offer
-52660,regular_offer
+52660,special_reward
 52661,default_offer
 52662,default_offer
 52663,default_offer
@@ -52762,7 +52762,7 @@ player_id,offer
 52761,default_offer
 52762,default_offer
 52763,default_offer
-52764,first_purchase_bonus
+52764,regular_offer
 52765,default_offer
 52766,first_purchase_bonus
 52767,default_offer
@@ -52852,7 +52852,7 @@ player_id,offer
 52851,discount
 52852,default_offer
 52853,discount
-52854,regular_offer
+52854,special_reward
 52855,default_offer
 52856,default_offer
 52857,default_offer
@@ -52871,8 +52871,8 @@ player_id,offer
 52870,default_offer
 52871,default_offer
 52872,default_offer
-52873,special_reward
-52874,first_purchase_bonus
+52873,first_purchase_bonus
+52874,special_reward
 52875,first_purchase_bonus
 52876,default_offer
 52877,default_offer
@@ -52889,7 +52889,7 @@ player_id,offer
 52888,regular_offer
 52889,default_offer
 52890,default_offer
-52891,special_reward
+52891,discount
 52892,default_offer
 52893,default_offer
 52894,default_offer
@@ -52916,7 +52916,7 @@ player_id,offer
 52915,default_offer
 52916,default_offer
 52917,first_purchase_bonus
-52918,special_reward
+52918,regular_offer
 52919,default_offer
 52920,regular_offer
 52921,default_offer
@@ -53015,7 +53015,7 @@ player_id,offer
 53014,default_offer
 53015,default_offer
 53016,default_offer
-53017,first_purchase_bonus
+53017,discount
 53018,default_offer
 53019,default_offer
 53020,default_offer
@@ -53128,7 +53128,7 @@ player_id,offer
 53127,default_offer
 53128,default_offer
 53129,default_offer
-53130,discount
+53130,special_reward
 53131,default_offer
 53132,default_offer
 53133,default_offer
@@ -53174,7 +53174,7 @@ player_id,offer
 53173,default_offer
 53174,default_offer
 53175,default_offer
-53176,first_purchase_bonus
+53176,special_reward
 53177,default_offer
 53178,default_offer
 53179,discount
@@ -53195,7 +53195,7 @@ player_id,offer
 53194,default_offer
 53195,special_reward
 53196,default_offer
-53197,discount
+53197,regular_offer
 53198,default_offer
 53199,default_offer
 53200,default_offer
@@ -53261,7 +53261,7 @@ player_id,offer
 53260,default_offer
 53261,default_offer
 53262,discount
-53263,first_purchase_bonus
+53263,special_reward
 53264,default_offer
 53265,default_offer
 53266,default_offer
@@ -53325,7 +53325,7 @@ player_id,offer
 53324,default_offer
 53325,default_offer
 53326,default_offer
-53327,special_reward
+53327,regular_offer
 53328,default_offer
 53329,default_offer
 53330,default_offer
@@ -53357,7 +53357,7 @@ player_id,offer
 53356,default_offer
 53357,default_offer
 53358,first_purchase_bonus
-53359,discount
+53359,regular_offer
 53360,default_offer
 53361,default_offer
 53362,default_offer
@@ -53524,7 +53524,7 @@ player_id,offer
 53523,default_offer
 53524,default_offer
 53525,default_offer
-53526,regular_offer
+53526,special_reward
 53527,default_offer
 53528,default_offer
 53529,default_offer
@@ -53630,7 +53630,7 @@ player_id,offer
 53629,default_offer
 53630,default_offer
 53631,default_offer
-53632,special_reward
+53632,special_reware
 53633,first_purchase_bonus
 53634,default_offer
 53635,default_offer
@@ -53747,7 +53747,7 @@ player_id,offer
 53746,first_purchase_bonus
 53747,default_offer
 53748,default_offer
-53749,first_purchase_bonus
+53749,special_reward
 53750,first_purchase_bonus
 53751,default_offer
 53752,default_offer
@@ -53821,9 +53821,9 @@ player_id,offer
 53820,default_offer
 53821,default_offer
 53822,default_offer
-53823,first_purchase_bonus
+53823,special_reward
 53824,default_offer
-53825,discount
+53825,regular_offer
 53826,default_offer
 53827,default_offer
 53828,default_offer
@@ -53834,9 +53834,9 @@ player_id,offer
 53833,default_offer
 53834,default_offer
 53835,default_offer
-53836,first_purchase_bonus
+53836,discount
 53837,default_offer
-53838,discount
+53838,special_reward
 53839,regular_offer
 53840,default_offer
 53841,default_offer
@@ -54069,7 +54069,7 @@ player_id,offer
 54068,default_offer
 54069,default_offer
 54070,first_purchase_bonus
-54071,regular_offer
+54071,discount
 54072,default_offer
 54073,default_offer
 54074,discount
@@ -54193,7 +54193,7 @@ player_id,offer
 54192,first_purchase_bonus
 54193,default_offer
 54194,default_offer
-54195,discount
+54195,regular_offer
 54196,discount
 54197,default_offer
 54198,default_offer
@@ -54815,7 +54815,7 @@ player_id,offer
 54814,default_offer
 54815,special_reward
 54816,default_offer
-54817,special_reward
+54817,discount
 54818,default_offer
 54819,default_offer
 54820,default_offer
@@ -54871,7 +54871,7 @@ player_id,offer
 54870,default_offer
 54871,default_offer
 54872,default_offer
-54873,special_reward
+54873,first_purchase_bonus
 54874,default_offer
 54875,default_offer
 54876,default_offer
@@ -55127,7 +55127,7 @@ player_id,offer
 55126,default_offer
 55127,default_offer
 55128,default_offer
-55129,first_purchase_bonus
+55129,regular_offer
 55130,default_offer
 55131,default_offer
 55132,default_offer
@@ -55233,7 +55233,7 @@ player_id,offer
 55232,default_offer
 55233,default_offer
 55234,default_offer
-55235,first_purchase_bonus
+55235,special_reward
 55236,default_offer
 55237,default_offer
 55238,default_offer
@@ -55341,10 +55341,10 @@ player_id,offer
 55340,default_offer
 55341,default_offer
 55342,default_offer
-55343,special_reward
+55343,discount
 55344,default_offer
 55345,default_offer
-55346,special_reward
+55346,first_purchase_bonus
 55347,default_offer
 55348,default_offer
 55349,default_offer
@@ -55356,7 +55356,7 @@ player_id,offer
 55355,default_offer
 55356,default_offer
 55357,default_offer
-55358,discount
+55358,first_purchase_bonus
 55359,default_offer
 55360,default_offer
 55361,default_offer
@@ -55511,7 +55511,7 @@ player_id,offer
 55510,default_offer
 55511,default_offer
 55512,default_offer
-55513,special_reward
+55513,first_purchase_bonus
 55514,default_offer
 55515,default_offer
 55516,default_offer
@@ -55856,12 +55856,12 @@ player_id,offer
 55855,default_offer
 55856,default_offer
 55857,default_offer
-55858,first_purchase_bonus
+55858,discount
 55859,default_offer
 55860,default_offer
 55861,default_offer
 55862,default_offer
-55863,special_reward
+55863,discount
 55864,default_offer
 55865,default_offer
 55866,default_offer
@@ -55949,7 +55949,7 @@ player_id,offer
 55948,default_offer
 55949,default_offer
 55950,first_purchase_bonus
-55951,discount
+55951,first_purchase_bonus
 55952,discount
 55953,default_offer
 55954,default_offer
@@ -55995,7 +55995,7 @@ player_id,offer
 55994,default_offer
 55995,default_offer
 55996,special_reward
-55997,first_purchase_bonus
+55997,special_reward
 55998,default_offer
 55999,default_offer
 56000,first_purchase_bonus
@@ -56083,7 +56083,7 @@ player_id,offer
 56082,default_offer
 56083,default_offer
 56084,default_offer
-56085,special_reward
+56085,discount
 56086,default_offer
 56087,default_offer
 56088,default_offer
@@ -56199,7 +56199,7 @@ player_id,offer
 56198,default_offer
 56199,default_offer
 56200,default_offer
-56201,special_reward
+56201,discount
 56202,default_offer
 56203,special_reward
 56204,default_offer
@@ -56260,7 +56260,7 @@ player_id,offer
 56259,default_offer
 56260,default_offer
 56261,default_offer
-56262,first_purchase_bonus
+56262,special_reward bonus
 56263,default_offer
 56264,default_offer
 56265,default_offer
@@ -56457,7 +56457,7 @@ player_id,offer
 56456,default_offer
 56457,default_offer
 56458,discount
-56459,regular_offer
+56459,discount
 56460,default_offer
 56461,default_offer
 56462,default_offer
@@ -56502,7 +56502,7 @@ player_id,offer
 56501,default_offer
 56502,default_offer
 56503,default_offer
-56504,regular_offer
+56504,discount
 56505,default_offer
 56506,default_offer
 56507,default_offer
@@ -56512,7 +56512,7 @@ player_id,offer
 56511,default_offer
 56512,default_offer
 56513,first_purchase_bonus
-56514,first_purchase_bonus
+56514,discount
 56515,default_offer
 56516,default_offer
 56517,default_offer
@@ -56555,7 +56555,7 @@ player_id,offer
 56554,default_offer
 56555,discount
 56556,default_offer
-56557,regular_offer
+56557,discount
 56558,default_offer
 56559,default_offer
 56560,default_offer
@@ -56742,7 +56742,7 @@ player_id,offer
 56741,default_offer
 56742,default_offer
 56743,default_offer
-56744,special_reward
+56744,discount
 56745,default_offer
 56746,special_reward
 56747,default_offer
@@ -56764,7 +56764,7 @@ player_id,offer
 56763,discount
 56764,default_offer
 56765,default_offer
-56766,first_purchase_bonus
+56766,discount
 56767,default_offer
 56768,default_offer
 56769,default_offer
@@ -56781,7 +56781,7 @@ player_id,offer
 56780,default_offer
 56781,default_offer
 56782,default_offer
-56783,first_purchase_bonus
+56783,regular_offer
 56784,first_purchase_bonus
 56785,default_offer
 56786,default_offer
@@ -56880,7 +56880,7 @@ player_id,offer
 56879,discount
 56880,discount
 56881,default_offer
-56882,special_reward
+56882,regular_offer
 56883,default_offer
 56884,default_offer
 56885,default_offer
@@ -57104,7 +57104,7 @@ player_id,offer
 57103,default_offer
 57104,default_offer
 57105,default_offer
-57106,discount
+57106,special_reward
 57107,default_offer
 57108,default_offer
 57109,default_offer
@@ -57439,7 +57439,7 @@ player_id,offer
 57438,default_offer
 57439,default_offer
 57440,default_offer
-57441,first_purchase_bonus
+57441,discount
 57442,default_offer
 57443,default_offer
 57444,default_offer
@@ -57658,7 +57658,7 @@ player_id,offer
 57657,default_offer
 57658,default_offer
 57659,default_offer
-57660,regular_offer
+57660,first_purchase_bonus
 57661,default_offer
 57662,default_offer
 57663,default_offer
@@ -57711,7 +57711,7 @@ player_id,offer
 57710,default_offer
 57711,default_offer
 57712,default_offer
-57713,discount
+57713,first_purchase_bonus
 57714,default_offer
 57715,default_offer
 57716,default_offer
@@ -57743,7 +57743,7 @@ player_id,offer
 57742,default_offer
 57743,default_offer
 57744,default_offer
-57745,discount
+57745,first_purchase_bonus
 57746,default_offer
 57747,default_offer
 57748,default_offer
@@ -57850,7 +57850,7 @@ player_id,offer
 57849,default_offer
 57850,default_offer
 57851,default_offer
-57852,regular_offer
+57852,first_purchase_bonus
 57853,default_offer
 57854,default_offer
 57855,default_offer
@@ -58248,7 +58248,7 @@ player_id,offer
 58247,default_offer
 58248,default_offer
 58249,special_reward
-58250,special_reward
+58250,first_purchase_bonus
 58251,special_reward
 58252,discount
 58253,default_offer
@@ -58380,7 +58380,7 @@ player_id,offer
 58379,default_offer
 58380,default_offer
 58381,first_purchase_bonus
-58382,regular_offer
+58382,special_reward
 58383,default_offer
 58384,special_reward
 58385,default_offer
@@ -58455,7 +58455,7 @@ player_id,offer
 58454,default_offer
 58455,default_offer
 58456,default_offer
-58457,discount
+58457,regular_offer
 58458,regular_offer
 58459,default_offer
 58460,first_purchase_bonus
@@ -59033,7 +59033,7 @@ player_id,offer
 59032,discount
 59033,default_offer
 59034,default_offer
-59035,special_reward
+59035,regular_offer
 59036,regular_offer
 59037,default_offer
 59038,default_offer
@@ -59797,7 +59797,7 @@ player_id,offer
 59796,default_offer
 59797,default_offer
 59798,default_offer
-59799,special_reward
+59799,discount
 59800,default_offer
 59801,special_reward
 59802,default_offer
@@ -60028,7 +60028,7 @@ player_id,offer
 60027,default_offer
 60028,default_offer
 60029,default_offer
-60030,discount
+60030,special_reward
 60031,default_offer
 60032,default_offer
 60033,default_offer
@@ -60102,7 +60102,7 @@ player_id,offer
 60101,default_offer
 60102,default_offer
 60103,regular_offer
-60104,special_reward
+60104,discount
 60105,default_offer
 60106,discount
 60107,default_offer
@@ -60411,7 +60411,7 @@ player_id,offer
 60410,default_offer
 60411,default_offer
 60412,regular_offer
-60413,special_reward
+60413,regular_offer
 60414,special_reward
 60415,default_offer
 60416,default_offer
@@ -61177,7 +61177,7 @@ player_id,offer
 61176,regular_offer
 61177,default_offer
 61178,default_offer
-61179,discount
+61179,first_purchase_bonus
 61180,default_offer
 61181,default_offer
 61182,first_purchase_bonus
@@ -61232,7 +61232,7 @@ player_id,offer
 61231,default_offer
 61232,default_offer
 61233,default_offer
-61234,special_reward
+61234,discount
 61235,default_offer
 61236,default_offer
 61237,default_offer
@@ -61366,7 +61366,7 @@ player_id,offer
 61365,default_offer
 61366,default_offer
 61367,default_offer
-61368,first_purchase_bonus
+61368,discount
 61369,default_offer
 61370,default_offer
 61371,default_offer
@@ -61439,12 +61439,12 @@ player_id,offer
 61438,default_offer
 61439,default_offer
 61440,default_offer
-61441,first_purchase_bonus
+61441,special_reward
 61442,default_offer
 61443,default_offer
 61444,default_offer
 61445,default_offer
-61446,regular_offer
+61446,first_purchase_bonus
 61447,default_offer
 61448,default_offer
 61449,default_offer
@@ -61699,7 +61699,7 @@ player_id,offer
 61698,default_offer
 61699,default_offer
 61700,default_offer
-61701,regular_offer
+61701,first_purchase_bonus
 61702,default_offer
 61703,default_offer
 61704,default_offer
@@ -61830,7 +61830,7 @@ player_id,offer
 61829,default_offer
 61830,default_offer
 61831,default_offer
-61832,first_purchase_bonus
+61832,special_reward
 61833,first_purchase_bonus
 61834,default_offer
 61835,default_offer
@@ -61866,7 +61866,7 @@ player_id,offer
 61865,default_offer
 61866,default_offer
 61867,default_offer
-61868,regular_offer
+61868,discount
 61869,default_offer
 61870,default_offer
 61871,regular_offer
@@ -61991,7 +61991,7 @@ player_id,offer
 61990,default_offer
 61991,special_reward
 61992,default_offer
-61993,first_purchase_bonus
+61993,special_reward
 61994,default_offer
 61995,default_offer
 61996,default_offer
@@ -62127,7 +62127,7 @@ player_id,offer
 62126,default_offer
 62127,default_offer
 62128,default_offer
-62129,regular_offer
+62129,discount
 62130,default_offer
 62131,default_offer
 62132,default_offer
@@ -62154,7 +62154,7 @@ player_id,offer
 62153,default_offer
 62154,default_offer
 62155,default_offer
-62156,first_purchase_bonus
+62156,regular_offer
 62157,default_offer
 62158,default_offer
 62159,default_offer
@@ -62230,7 +62230,7 @@ player_id,offer
 62229,default_offer
 62230,default_offer
 62231,first_purchase_bonus
-62232,first_purchase_bonus
+62232,special_reward
 62233,special_reward
 62234,default_offer
 62235,default_offer
@@ -62368,7 +62368,7 @@ player_id,offer
 62367,default_offer
 62368,default_offer
 62369,default_offer
-62370,regular_offer
+62370,first_purchase_bonus
 62371,special_reward
 62372,default_offer
 62373,default_offer
@@ -62544,7 +62544,7 @@ player_id,offer
 62543,default_offer
 62544,default_offer
 62545,default_offer
-62546,special_reward
+62546,discount
 62547,default_offer
 62548,discount
 62549,default_offer
@@ -62784,7 +62784,7 @@ player_id,offer
 62783,default_offer
 62784,default_offer
 62785,default_offer
-62786,first_purchase_bonus
+62786,regular_offer
 62787,default_offer
 62788,default_offer
 62789,default_offer
@@ -62835,7 +62835,7 @@ player_id,offer
 62834,default_offer
 62835,special_reward
 62836,default_offer
-62837,discount
+62837,first_purchase_bonus
 62838,default_offer
 62839,default_offer
 62840,default_offer
@@ -62968,7 +62968,7 @@ player_id,offer
 62967,default_offer
 62968,default_offer
 62969,default_offer
-62970,regular_offer
+62970,discount
 62971,discount
 62972,default_offer
 62973,default_offer
@@ -63051,7 +63051,7 @@ player_id,offer
 63050,default_offer
 63051,default_offer
 63052,default_offer
-63053,special_reward
+63053,regular_offer
 63054,default_offer
 63055,default_offer
 63056,default_offer
@@ -63182,7 +63182,7 @@ player_id,offer
 63181,default_offer
 63182,regular_offer
 63183,default_offer
-63184,first_purchase_bonus
+63184,regular_offer
 63185,default_offer
 63186,default_offer
 63187,default_offer
@@ -63260,7 +63260,7 @@ player_id,offer
 63259,default_offer
 63260,default_offer
 63261,discount
-63262,first_purchase_bonus
+63262,special_reward
 63263,default_offer
 63264,default_offer
 63265,default_offer
@@ -63271,7 +63271,7 @@ player_id,offer
 63270,default_offer
 63271,default_offer
 63272,default_offer
-63273,special_reward
+63273,first_purchase_bonus
 63274,default_offer
 63275,default_offer
 63276,default_offer
@@ -63308,7 +63308,7 @@ player_id,offer
 63307,default_offer
 63308,first_purchase_bonus
 63309,default_offer
-63310,regular_offer
+63310,special_reward
 63311,special_reward
 63312,default_offer
 63313,default_offer
@@ -63396,7 +63396,7 @@ player_id,offer
 63395,default_offer
 63396,default_offer
 63397,default_offer
-63398,discount
+63398,first_purchase_bonus
 63399,default_offer
 63400,default_offer
 63401,default_offer
@@ -63447,7 +63447,7 @@ player_id,offer
 63446,default_offer
 63447,default_offer
 63448,default_offer
-63449,special_reward
+63449,discount
 63450,default_offer
 63451,default_offer
 63452,default_offer
@@ -63487,7 +63487,7 @@ player_id,offer
 63486,default_offer
 63487,default_offer
 63488,default_offer
-63489,first_purchase_bonus
+63489,special_reward
 63490,default_offer
 63491,default_offer
 63492,default_offer
@@ -63495,7 +63495,7 @@ player_id,offer
 63494,default_offer
 63495,default_offer
 63496,default_offer
-63497,special_rewar
+63497,special_reward
 63498,discount
 63499,default_offer
 63500,default_offer
@@ -63547,8 +63547,8 @@ player_id,offer
 63546,default_offer
 63547,default_offer
 63548,first_purchase_bonus
-63549,discount
-63550,discount
+63549,first_purchase_bonus
+63550,first_purchase_bonus
 63551,default_offer
 63552,default_offer
 63553,default_offer
@@ -63744,8 +63744,8 @@ player_id,offer
 63743,default_offer
 63744,default_offer
 63745,default_offer
-63746,regular_offer
-63747,regular_offer
+63746,first_purchase_bonus
+63747,first_purchase_bonus
 63748,default_offer
 63749,default_offer
 63750,default_offer
@@ -63814,7 +63814,7 @@ player_id,offer
 63813,default_offer
 63814,default_offer
 63815,default_offer
-63816,first_purchase_bonus
+63816,special_reward
 63817,default_offer
 63818,default_offer
 63819,first_purchase_bonus
@@ -63830,7 +63830,7 @@ player_id,offer
 63829,default_offer
 63830,default_offer
 63831,default_offer
-63832,discount
+63832,first_purchase_bonus
 63833,default_offer
 63834,default_offer
 63835,default_offer
@@ -63872,7 +63872,7 @@ player_id,offer
 63871,default_offer
 63872,default_offer
 63873,default_offer
-63874,first_purchase_bonus
+63874,discount
 63875,default_offer
 63876,default_offer
 63877,default_offer
@@ -63921,7 +63921,7 @@ player_id,offer
 63920,default_offer
 63921,default_offer
 63922,default_offer
-63923,first_purchase_bonus
+63923,regular_offer
 63924,default_offer
 63925,default_offer
 63926,default_offer
@@ -64054,7 +64054,7 @@ player_id,offer
 64053,default_offer
 64054,default_offer
 64055,special_reward
-64056,discount
+64056,first_purchase_bonus
 64057,default_offer
 64058,default_offer
 64059,first_purchase_bonus
@@ -64106,7 +64106,7 @@ player_id,offer
 64105,default_offer
 64106,default_offer
 64107,default_offer
-64108,first_purchase_bonus
+64108,special_reward
 64109,default_offer
 64110,default_offer
 64111,default_offer
@@ -64165,7 +64165,7 @@ player_id,offer
 64164,default_offer
 64165,default_offer
 64166,default_offer
-64167,special_reward
+64167,first_purchase_bonus
 64168,default_offer
 64169,default_offer
 64170,default_offer
@@ -64197,7 +64197,7 @@ player_id,offer
 64196,default_offer
 64197,default_offer
 64198,default_offer
-64199,first_purchase_bonus
+64199,discount
 64200,default_offer
 64201,default_offer
 64202,default_offer
@@ -64263,7 +64263,7 @@ player_id,offer
 64262,default_offer
 64263,default_offer
 64264,default_offer
-64265,first_purchase_bonus
+64265,regular_offer
 64266,default_offer
 64267,default_offer
 64268,default_offer
@@ -64346,7 +64346,7 @@ player_id,offer
 64345,default_offer
 64346,default_offer
 64347,discount
-64348,special_reward
+64348,first_purchase_bonus
 64349,default_offer
 64350,default_offer
 64351,default_offer
@@ -64493,7 +64493,7 @@ player_id,offer
 64492,default_offer
 64493,default_offer
 64494,first_purchase_bonus
-64495,discount
+64495,first_purchase_bonus
 64496,default_offer
 64497,default_offer
 64498,default_offer
@@ -64513,7 +64513,7 @@ player_id,offer
 64512,default_offer
 64513,default_offer
 64514,default_offer
-64515,special_reward
+64515,regular_offer
 64516,default_offer
 64517,default_offer
 64518,default_offer
@@ -65373,7 +65373,7 @@ player_id,offer
 65372,default_offer
 65373,default_offer
 65374,default_offer
-65375,discount
+65375,regular_offer
 65376,discount
 65377,default_offer
 65378,default_offer
@@ -66281,7 +66281,7 @@ player_id,offer
 66280,default_offer
 66281,default_offer
 66282,default_offer
-66283,first_purchase_bonus
+66283,discount
 66284,first_purchase_bonus
 66285,default_offer
 66286,default_offer
@@ -67587,9 +67587,9 @@ player_id,offer
 67586,default_offer
 67587,default_offer
 67588,default_offer
-67589,regular_offer
+67589,first_purchase_bonus
 67590,default_offer
-67591,regular_offer
+67591,first_purchase_bonus
 67592,first_purchase_bonus
 67593,default_offer
 67594,default_offer
@@ -67942,7 +67942,7 @@ player_id,offer
 67941,discount
 67942,default_offer
 67943,default_offer
-67944,regular_offer
+67944,discount
 67945,special_reward
 67946,default_offer
 67947,regular_offer
@@ -68824,7 +68824,7 @@ player_id,offer
 68823,default_offer
 68824,default_offer
 68825,default_offer
-68826,first_purchase_bonus
+68826,discount
 68827,discount
 68828,default_offer
 68829,default_offer
@@ -70143,7 +70143,7 @@ player_id,offer
 70142,default_offer
 70143,default_offer
 70144,default_offer
-70145,regular_offer
+70145,special_reward
 70146,default_offer
 70147,regular_offer
 70148,default_offer
@@ -70319,7 +70319,7 @@ player_id,offer
 70318,default_offer
 70319,default_offer
 70320,default_offer
-70321,discount
+70321,regular_offer
 70322,regular_offer
 70323,default_offer
 70324,default_offer
@@ -70383,7 +70383,7 @@ player_id,offer
 70382,regular_offer
 70383,default_offer
 70384,default_offer
-70385,discount
+70385,first_purchase_bonus
 70386,default_offer
 70387,default_offer
 70388,first_purchase_bonus
@@ -71290,7 +71290,7 @@ player_id,offer
 71289,default_offer
 71290,default_offer
 71291,default_offer
-71292,special_reward
+71292,regular_offer
 71293,special_reward
 71294,default_offer
 71295,default_offer
@@ -71568,7 +71568,7 @@ player_id,offer
 71567,default_offer
 71568,default_offer
 71569,default_offer
-71570,first_purchase_bonus
+71570,discount
 71571,default_offer
 71572,first_purchase_bonus
 71573,default_offer
@@ -72684,7 +72684,7 @@ player_id,offer
 72683,default_offer
 72684,first_purchase_bonus
 72685,default_offer
-72686,first_purchase_bonus
+72686,special_reward
 72687,first_purchase_bonus
 72688,default_offer
 72689,default_offer
@@ -73329,7 +73329,7 @@ player_id,offer
 73328,default_offer
 73329,default_offer
 73330,default_offer
-73331,special_reward
+73331,regular_offer
 73332,special_reward
 73333,default_offer
 73334,default_offer
@@ -75305,7 +75305,7 @@ player_id,offer
 75304,default_offer
 75305,default_offer
 75306,default_offer
-75307,first_purchase_bonus
+75307,special_reward
 75308,default_offer
 75309,default_offer
 75310,special_reward
@@ -76034,7 +76034,7 @@ player_id,offer
 76033,default_offer
 76034,default_offer
 76035,default_offer
-76036,first_purchase_bonus
+76036,discount
 76037,default_offer
 76038,default_offer
 76039,default_offer
@@ -76407,7 +76407,7 @@ player_id,offer
 76406,discount
 76407,default_offer
 76408,default_offer
-76409,special_reward
+76409,first_purchase_bonus
 76410,special_reward
 76411,default_offer
 76412,default_offer
@@ -76547,7 +76547,7 @@ player_id,offer
 76546,default_offer
 76547,default_offer
 76548,default_offer
-76549,regular_offer
+76549,special_reward
 76550,special_reward
 76551,first_purchase_bonus
 76552,default_offer
@@ -76991,7 +76991,7 @@ player_id,offer
 76990,default_offer
 76991,default_offer
 76992,special_reward
-76993,first_purchase_bonus
+76993,discount
 76994,discount
 76995,default_offer
 76996,default_offer
@@ -77373,7 +77373,7 @@ player_id,offer
 77372,default_offer
 77373,default_offer
 77374,default_offer
-77375,first_purchase_bonus
+77375,discount
 77376,first_purchase_bonus
 77377,default_offer
 77378,default_offer
@@ -77610,7 +77610,7 @@ player_id,offer
 77609,default_offer
 77610,default_offer
 77611,first_purchase_bonus
-77612,first_purchase_bonus
+77612,discount
 77613,first_purchase_bonus
 77614,default_offer
 77615,default_offer
@@ -78268,7 +78268,7 @@ player_id,offer
 78267,default_offer
 78268,discount
 78269,default_offer
-78270,special_reward
+78270,first_purchase_bonus
 78271,first_purchase_bonus
 78272,default_offer
 78273,default_offer
@@ -78327,7 +78327,7 @@ player_id,offer
 78326,default_offer
 78327,default_offer
 78328,default_offer
-78329,special_reward
+78329,discount
 78330,special_reward
 78331,default_offer
 78332,default_offer
@@ -79100,7 +79100,7 @@ player_id,offer
 79099,default_offer
 79100,default_offer
 79101,default_offer
-79102,first_purchase_bonus
+79102,regular_offer
 79103,first_purchase_bonus
 79104,default_offer
 79105,default_offer
@@ -79401,7 +79401,7 @@ player_id,offer
 79400,default_offer
 79401,default_offer
 79402,default_offer
-79403,discount
+79403,first_purchase_bonus
 79404,first_purchase_bonus
 79405,default_offer
 79406,default_offer
@@ -79736,7 +79736,7 @@ player_id,offer
 79735,default_offer
 79736,default_offer
 79737,default_offer
-79738,special_reward
+79738,regular_offer
 79739,special_reward
 79740,default_offer
 79741,default_offer
@@ -79973,7 +79973,7 @@ player_id,offer
 79972,default_offer
 79973,default_offer
 79974,default_offer
-79975,discount
+79975,first_purchase_bonus
 79976,default_offer
 79977,special_reward
 79978,default_offer
@@ -80132,7 +80132,7 @@ player_id,offer
 80131,default_offer
 80132,default_offer
 80133,default_offer
-80134,first_purchase_bonus
+80134,regular_offer
 80135,regular_offer
 80136,default_offer
 80137,default_offer
@@ -80730,7 +80730,7 @@ player_id,offer
 80729,default_offer
 80730,default_offer
 80731,default_offer
-80732,first_purchase_bonus
+80732,regular_offer
 80733,default_offer
 80734,first_purchase_bonus
 80735,default_offer
@@ -80783,7 +80783,7 @@ player_id,offer
 80782,default_offer
 80783,default_offer
 80784,default_offer
-80785,special_reward
+80785,regular_offer
 80786,special_reward
 80787,default_offer
 80788,default_offer
@@ -83448,7 +83448,7 @@ player_id,offer
 83447,default_offer
 83448,default_offer
 83449,default_offer
-83450,special_reward
+83450,regular_offer
 83451,regular_offer
 83452,default_offer
 83453,default_offer
@@ -83990,7 +83990,7 @@ player_id,offer
 83989,default_offer
 83990,default_offer
 83991,default_offer
-83992,regular_offer
+83992,special_reward
 83993,default_offer
 83994,default_offer
 83995,default_offer
@@ -84024,7 +84024,7 @@ player_id,offer
 84023,default_offer
 84024,default_offer
 84025,default_offer
-84026,special_reward
+84026,first_purchase_bonus
 84027,first_purchase_bonus
 84028,default_offer
 84029,default_offer
@@ -84403,7 +84403,7 @@ player_id,offer
 84402,first_purchase_bonus
 84403,default_offer
 84404,default_offer
-84405,special_reward
+84405,first_purchase_bonus
 84406,first_purchase_bonus
 84407,default_offer
 84408,default_offer
@@ -84748,7 +84748,7 @@ player_id,offer
 84747,special_reward
 84748,default_offer
 84749,default_offer
-84750,first_purchase_bonus
+84750,regular_offer
 84751,regular_offer
 84752,default_offer
 84753,default_offer
@@ -84955,7 +84955,7 @@ player_id,offer
 84954,default_offer
 84955,default_offer
 84956,default_offer
-84957,regular_offer
+84957,discount
 84958,discount
 84959,default_offer
 84960,default_offer
@@ -85457,7 +85457,7 @@ player_id,offer
 85456,regular_offer
 85457,default_offer
 85458,default_offer
-85459,discount
+85459,regular_offer
 85460,discount
 85461,default_offer
 85462,special_reward
@@ -85732,7 +85732,7 @@ player_id,offer
 85731,default_offer
 85732,default_offer
 85733,default_offer
-85734,first_purchase_bonus
+85734,discount
 85735,first_purchase_bonus
 85736,default_offer
 85737,default_offer
@@ -85785,7 +85785,7 @@ player_id,offer
 85784,default_offer
 85785,first_purchase_bonus
 85786,default_offer
-85787,first_purchase_bonus
+85787,special_reward
 85788,default_offer
 85789,special_reward
 85790,default_offer
@@ -87012,7 +87012,7 @@ player_id,offer
 87011,default_offer
 87012,default_offer
 87013,special_reward
-87014,first_purchase_bonus
+87014,regular_offer
 87015,regular_offer
 87016,default_offer
 87017,default_offer
@@ -87656,7 +87656,7 @@ player_id,offer
 87655,default_offer
 87656,default_offer
 87657,default_offer
-87658,discount
+87658,first_purchase_bonus
 87659,first_purchase_bonus
 87660,default_offer
 87661,special_reward
@@ -87746,13 +87746,13 @@ player_id,offer
 87745,default_offer
 87746,default_offer
 87747,default_offer
-87748,first_purchase_bonus
+87748,special_reward
 87749,special_reward
 87750,default_offer
 87751,default_offer
 87752,default_offer
 87753,default_offer
-87754,first_purchase_bonus
+87754,special_reward
 87755,default_offer
 87756,default_offer
 87757,first_purchase_bonus
@@ -88201,7 +88201,7 @@ player_id,offer
 88200,default_offer
 88201,default_offer
 88202,discount
-88203,regular_offer
+88203,special_reward
 88204,special_reward
 88205,default_offer
 88206,default_offer
@@ -88539,7 +88539,7 @@ player_id,offer
 88538,default_offer
 88539,default_offer
 88540,default_offer
-88541,first_purchase_bonus
+88541,regular_offer
 88542,default_offer
 88543,default_offer
 88544,first_purchase_bonus
@@ -88681,7 +88681,7 @@ player_id,offer
 88680,default_offer
 88681,default_offer
 88682,default_offer
-88683,discount
+88683,first_purchase_bonus
 88684,default_offer
 88685,first_purchase_bonus
 88686,default_offer
@@ -90827,7 +90827,7 @@ player_id,offer
 90826,default_offer
 90827,first_purchase_bonus
 90828,first_purchase_bonus
-90829,special_reward
+90829,regular_offer
 90830,regular_offer
 90831,default_offer
 90832,default_offer
@@ -90862,7 +90862,7 @@ player_id,offer
 90861,default_offer
 90862,default_offer
 90863,default_offer
-90864,regular_offer
+90864,first_purchase_bonus
 90865,default_offer
 90866,regular_offer
 90867,default_offer
@@ -91065,7 +91065,7 @@ player_id,offer
 91064,default_offer
 91065,default_offer
 91066,default_offer
-91067,first_purchase_bonus
+91067,regular_offer
 91068,first_purchase_bonus
 91069,default_offer
 91070,default_offer
@@ -91250,7 +91250,7 @@ player_id,offer
 91249,default_offer
 91250,default_offer
 91251,default_offer
-91252,special_reward
+91252,discount
 91253,discount
 91254,default_offer
 91255,default_offer
@@ -92339,7 +92339,7 @@ player_id,offer
 92338,default_offer
 92339,first_purchase_bonus
 92340,discount
-92341,first_purchase_bonus
+92341,regular_offer
 92342,first_purchase_bonus
 92343,default_offer
 92344,default_offer
@@ -92930,7 +92930,7 @@ player_id,offer
 92929,default_offer
 92930,default_offer
 92931,default_offer
-92932,discount
+92932,special_reward
 92933,default_offer
 92934,discount
 92935,default_offer
@@ -93312,7 +93312,7 @@ player_id,offer
 93311,first_purchase_bonus
 93312,default_offer
 93313,default_offer
-93314,regular_offer
+93314,first_purchase_bonus
 93315,first_purchase_bonus
 93316,default_offer
 93317,default_offer
@@ -93616,7 +93616,7 @@ player_id,offer
 93615,default_offer
 93616,default_offer
 93617,first_purchase_bonus
-93618,special_reward
+93618,regular_offer
 93619,default_offer
 93620,regular_offer
 93621,default_offer
@@ -94618,7 +94618,7 @@ player_id,offer
 94617,default_offer
 94618,default_offer
 94619,default_offer
-94620,regular_offer
+94620,first_purchase_bonus
 94621,default_offer
 94622,regular_offer
 94623,default_offer
@@ -95614,7 +95614,7 @@ player_id,offer
 95613,default_offer
 95614,default_offer
 95615,default_offer
-95616,discount
+95616,special_reward
 95617,special_reward
 95618,default_offer
 95619,default_offer
@@ -96088,7 +96088,7 @@ player_id,offer
 96087,default_offer
 96088,default_offer
 96089,default_offer
-96090,first_purchase_bonus
+96090,special_reward
 96091,first_purchase_bonus
 96092,default_offer
 96093,default_offer
@@ -97666,7 +97666,7 @@ player_id,offer
 97665,default_offer
 97666,default_offer
 97667,default_offer
-97668,special_reward
+97668,discount
 97669,default_offer
 97670,special_reward
 97671,default_offer
@@ -97734,7 +97734,7 @@ player_id,offer
 97733,default_offer
 97734,default_offer
 97735,default_offer
-97736,first_purchase_bonus
+97736,special_reward
 97737,special_reward
 97738,default_offer
 97739,default_offer
@@ -97753,7 +97753,7 @@ player_id,offer
 97752,default_offer
 97753,default_offer
 97754,default_offer
-97755,discount
+97755,regular_offer
 97756,regular_offer
 97757,default_offer
 97758,default_offer
@@ -97940,7 +97940,7 @@ player_id,offer
 97939,default_offer
 97940,default_offer
 97941,default_offer
-97942,regular_offer
+97942,first_purchase_bonus
 97943,regular_offer
 97944,default_offer
 97945,default_offer
@@ -98376,7 +98376,7 @@ player_id,offer
 98375,default_offer
 98376,first_purchase_bonus
 98377,default_offer
-98378,first_purchase_bonus
+98378,special_reward
 98379,default_offer
 98380,default_offer
 98381,first_purchase_bonus
@@ -98509,7 +98509,7 @@ player_id,offer
 98508,default_offer
 98509,default_offer
 98510,default_offer
-98511,first_purchase_bonus
+98511,special_reward
 98512,default_offer
 98513,default_offer
 98514,default_offer
@@ -98535,7 +98535,7 @@ player_id,offer
 98534,default_offer
 98535,default_offer
 98536,default_offer
-98537,special_reward
+98537,regular_offer
 98538,default_offer
 98539,default_offer
 98540,default_offer
@@ -98768,7 +98768,7 @@ player_id,offer
 98767,default_offer
 98768,default_offer
 98769,default_offer
-98770,special_reward
+98770,regular_offer
 98771,default_offer
 98772,special_reward
 98773,default_offer
@@ -98996,7 +98996,7 @@ player_id,offer
 98995,default_offer
 98996,default_offer
 98997,default_offer
-98998,discount
+98998,special_reward
 98999,default_offer
 99000,default_offer
 99001,default_offer
@@ -99076,7 +99076,7 @@ player_id,offer
 99075,default_offer
 99076,default_offer
 99077,default_offer
-99078,discount
+99078,first_purchase_bonus
 99079,default_offer
 99080,default_offer
 99081,default_offer
@@ -99767,7 +99767,7 @@ player_id,offer
 99766,default_offer
 99767,default_offer
 99768,default_offer
-99769,discount
+99769,special_reward
 99770,default_offer
 99771,default_offer
 99772,default_offer
@@ -99947,8 +99947,8 @@ player_id,offer
 99946,default_offer
 99947,default_offer
 99948,special_reward
-99949,regular_offer
-99950,regular_offer
+99949,discount
+99950,special_reward
 99951,default_offer
 99952,default_offer
 99953,default_offer
