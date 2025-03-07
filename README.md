@@ -3,14 +3,6 @@
 
 This project, HybridRuleEngine, builds a real-time offer recommendation system for live-service games. Player data is loaded in Python, passed to C for ultra-fast rule evaluation, and results are logged for future analysis. Fast C Batch using OpenMP, vectorization, and batched memory handling. The result: 330x speedup over regular Python and 234x faster than Numba. This project demonstrates practical hybrid optimization, bridging data science flexibility with performance-critical real-time game requirements.
 
-## Wait, where’s the real data?
-Oh, you thought I’d just drop millions of real player records here? Yeah… no. Legal would hunt me down with a Nerf gun. So, all player data in this repo is 100% fake, handcrafted with love and Python’s random module.
-
-## Also, this is not the actual production code.
-The original is buried under layers of NDAs, corporate processes, and some "senior architect’s" very strong opinions. What you see here is a clean-room, spiritual successor—same core ideas, completely fresh code.
-
-
-
 
 ## 📂 Directory Structure
 
